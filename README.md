@@ -58,6 +58,9 @@ This project is not at all comparable to newer (and old) techniques of encryptio
  
 ###### Co-Authors 
 https://github.com/M2etroline
+
 https://github.com/kon4770
+
 https://github.com/SuchodolskijEdvin
+
 https://github.com/krzsza1
